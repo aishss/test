@@ -1,0 +1,6 @@
+test1 adding file
+
+After Stagging
+But Before Commit
+
+In stagging now...
